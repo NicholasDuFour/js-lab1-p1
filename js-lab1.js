@@ -5,7 +5,7 @@
 
 let p = prompt("Do you want to play a game?");
 if (p === "yes" || p === "Yes") {
- let user = prompt("What is your character's name?");
+let user = prompt("What is your character's name?");
 
 let userWins = 0;
 let grantWins = 0;
